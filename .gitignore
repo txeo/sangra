@@ -5,3 +5,9 @@ build
 # Ignore waf lock file
 .lock-waf*
 /mate
+
+.settings/
+.autotools
+.cproject
+.externalToolBuilders
+.project
