@@ -1,5 +1,4 @@
 #include "includes/sangra.h"
-
   // ---- //
  // VARS //  
 // ---- //
@@ -47,7 +46,7 @@ static void update_time() {
     strftime(buffer, sizeof("00:00"), "%I:%M:%S", tick_time);
   }
   
-     time_layer = text_layer_create(GRect(0, 12, 144, 50));
+  time_layer = text_layer_create(GRect(0, 12, 144, 50));
   text_layer_set_background_color(time_layer, GColorBlack);
   text_layer_set_text_color(time_layer, GColorWhite);
   text_layer_set_text(time_layer, "00:00:00");
