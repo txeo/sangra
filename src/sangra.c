@@ -53,7 +53,7 @@ static void update_time() {
 
   // Improve the layout to be more like a watchface
   text_layer_set_font(time_layer, fonts_get_system_font(FONT_KEY_BITHAM_30_BLACK));
-  text_layer_set_text_alignment(time_layer, GTextAlignmentCenter);
+  text_layer_set_text_alignment(time_layer, GTextAlignmentCenters);
 
   // Add it as a child layer to the Window's root layer
   layer_add_child(window_get_root_layer(window), text_layer_get_layer(time_layer));

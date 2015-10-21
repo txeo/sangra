@@ -32,6 +32,7 @@ char *yoga_tea_phrases[] = {
   "Where there is love, there is no question",
   "Let your manners speak of you",
   "Life is a flow of love; your participation is requested",
+  "Patience pays",
   "Love is an infinite power"
 };
 
