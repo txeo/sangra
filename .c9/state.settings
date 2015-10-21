@@ -1,0 +1,303 @@
+{
+    "ace": {
+        "search": {
+            "@backwards": "false",
+            "@highlightmatches": "true",
+            "@matchcase": "false",
+            "@preservecase": "false",
+            "@regex": "false",
+            "@wholeword": "false",
+            "@wraparound": true
+        }
+    },
+    "breakpoints": {
+        "json()": []
+    },
+    "console": {
+        "@expanded": false,
+        "@height": 430,
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "tab2"
+                ]
+            },
+            "name": "pane1",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab2",
+                    "path": null,
+                    "className": [
+                        "tab2"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1445209322476
+                        },
+                        "filter": true,
+                        "title": "bash - \"macbook.local\"",
+                        "tooltip": "bash - \"macbook.local\"",
+                        "terminal": {
+                            "id": "devel_125",
+                            "cwd": "",
+                            "width": 0,
+                            "height": 0
+                        }
+                    },
+                    "editorType": "terminal",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@datagrid": 1,
+            "@divider": 4,
+            "@document": 4,
+            "@form": 4,
+            "@immediate": 1,
+            "@menu": 5,
+            "@menuitem": 13,
+            "@pane": 4,
+            "@postmessage": 1,
+            "@preferences": 1,
+            "@preview": 1,
+            "@session": 4,
+            "@tab": 6,
+            "@undoManager": 4
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@wholeword": "false"
+    },
+    "menus": {
+        "@minimized": "false"
+    },
+    "nak": {
+        "@installed": true
+    },
+    "panecycle": {
+        "json()": [
+            "tab4",
+            "tab5"
+        ]
+    },
+    "panels": {
+        "@active-left": "none",
+        "commands.panel": {
+            "@enabled": "true",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "true",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "tree": {
+            "@enabled": "true",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/",
+                "/resources",
+                "/src",
+                "/src/includes"
+            ]
+        }
+    },
+    "recentfiles": {
+        "json()": []
+    },
+    "search-history": {
+        "replace": {
+            "json()": [
+                "\","
+            ]
+        },
+        "search": {
+            "json()": [
+                "time_layer",
+                "text_layer_set_text",
+                "s_time_layer",
+                "result",
+                "error",
+                "pebble",
+                "main_window_load",
+                "status_"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/src/sangra.c",
+            "nodes": [
+                {
+                    "type": "pane",
+                    "name": "pane0",
+                    "nodes": [
+                        {
+                            "type": "tab",
+                            "name": "tab0",
+                            "path": "/appinfo.json",
+                            "className": [
+                                "tab0"
+                            ],
+                            "document": {
+                                "filter": true,
+                                "title": "appinfo.json",
+                                "tooltip": "/appinfo.json",
+                                "ace": {
+                                    "folds": [],
+                                    "scrolltop": 0,
+                                    "scrollleft": 0,
+                                    "selection": {
+                                        "start": {
+                                            "row": 7,
+                                            "column": 22
+                                        },
+                                        "end": {
+                                            "row": 7,
+                                            "column": 22
+                                        },
+                                        "isBackwards": false
+                                    },
+                                    "options": {
+                                        "guessTabSize": true,
+                                        "useWrapMode": false,
+                                        "wrapToView": true
+                                    },
+                                    "firstLineState": 0
+                                },
+                                "hash": "7bab000eaeead5e033319fbf7547004789f59e29",
+                                "meta": {
+                                    "timestamp": 1445135309000
+                                },
+                                "changed": false
+                            },
+                            "editorType": "ace",
+                            "active": false
+                        },
+                        {
+                            "type": "tab",
+                            "name": "tab4",
+                            "path": "/src/sangra.c",
+                            "className": [
+                                "tab4",
+                                "focus"
+                            ],
+                            "document": {
+                                "changed": false,
+                                "meta": {
+                                    "timestamp": 1445409971000
+                                },
+                                "filter": true,
+                                "title": "sangra.c",
+                                "tooltip": "/src/sangra.c",
+                                "ace": {}
+                            },
+                            "editorType": "ace",
+                            "active": true
+                        },
+                        {
+                            "type": "tab",
+                            "name": "tab3",
+                            "path": "/src/includes/sangra.h",
+                            "className": [
+                                "tab3"
+                            ],
+                            "document": {
+                                "changed": false,
+                                "meta": {
+                                    "timestamp": 1445457079382
+                                },
+                                "filter": true,
+                                "title": "sangra.h",
+                                "tooltip": "/src/includes/sangra.h",
+                                "ace": {}
+                            },
+                            "editorType": "ace",
+                            "active": false
+                        }
+                    ],
+                    "skin": "editor_tab",
+                    "skinset": "default",
+                    "meta": {
+                        "accessList": [
+                            "tab4",
+                            "tab3",
+                            "tab0"
+                        ]
+                    }
+                },
+                {
+                    "type": "pane",
+                    "name": "pane3",
+                    "nodes": [
+                        {
+                            "type": "tab",
+                            "name": "tab5",
+                            "path": null,
+                            "className": [
+                                "tab5"
+                            ],
+                            "document": {
+                                "changed": false,
+                                "meta": {
+                                    "timestamp": 1445380030079
+                                },
+                                "filter": true,
+                                "title": "bash - \"macbook.local\"",
+                                "tooltip": "bash - \"macbook.local\"",
+                                "terminal": {
+                                    "id": "devel_476",
+                                    "cwd": "",
+                                    "width": 1346,
+                                    "height": 358
+                                }
+                            },
+                            "editorType": "terminal",
+                            "active": true
+                        }
+                    ],
+                    "height": "40.37267080745342%",
+                    "skin": "editor_tab",
+                    "skinset": "default",
+                    "meta": {
+                        "accessList": [
+                            "tab5"
+                        ]
+                    }
+                }
+            ],
+            "type": "vsplitbox"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/src/sangra.c"
+        ]
+    }
+}

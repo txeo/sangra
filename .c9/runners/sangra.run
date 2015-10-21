@@ -1,0 +1,11 @@
+// This file overrides the built-in C (simple) runner
+// For more information see http://docs.c9.io:8080/#!/api/run-method-run
+{
+  "cmd": [
+    "pebble install --emulator basalt && sleep 5",
+  ],
+  "info": "Running $file_path/$file_name",
+  "env": {},
+  "selector": "^.*\\.c$"
+}
+
